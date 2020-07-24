@@ -14,6 +14,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="arb" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
